@@ -1,0 +1,15 @@
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/bin/Debug/net8.0/CalculatorApp
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/bin/Debug/net8.0/CalculatorApp.deps.json
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/bin/Debug/net8.0/CalculatorApp.runtimeconfig.json
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/bin/Debug/net8.0/CalculatorApp.dll
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/bin/Debug/net8.0/CalculatorApp.pdb
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/obj/Debug/net8.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfo.cs
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/obj/Debug/net8.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/obj/Debug/net8.0/CalculatorApp.sourcelink.json
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/obj/Debug/net8.0/CalculatorApp.dll
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/obj/Debug/net8.0/refint/CalculatorApp.dll
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/obj/Debug/net8.0/CalculatorApp.pdb
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/obj/Debug/net8.0/CalculatorApp.genruntimeconfig.cache
+/Users/kirankulkarni/Desktop/dotnetproj/Calculator/Calculator/CalculatorApp/obj/Debug/net8.0/ref/CalculatorApp.dll
